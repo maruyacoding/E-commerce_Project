@@ -28,7 +28,7 @@
 
 - 인원: 최윤아
 - 데이터: Kaggle Dataset의 브라질 시장에서 가장 큰 백화점인 Olist가 제공한 실제 상업 데이터
-- 진행 순서 : 기획 -> 데이터 수집(Kaggle, 크롤링..) -> Data Preprocessing 및 EDA -> Data Transformation -> Modeling -> Evaluation -> Dashboard(Tableau)
+- 진행 순서 : 기획 -> 데이터 수집(Kaggle, 크롤링..) -> Data Preprocessing -> Data Transformation -> Data EDA -> Modeling -> Evaluation -> Dashboard(Tableau)
 - 기록 : 노션, Github
   - 노션 : https://www.notion.so/E-commerce-15cc6b2339e74f2ca1e736a07878350f
   - Github : https://github.com/maruyacoding/E-commerce_Project
