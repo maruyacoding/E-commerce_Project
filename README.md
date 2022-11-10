@@ -5,7 +5,7 @@
 
 
 ## 개인 프로젝트
-![image](https://user-images.githubusercontent.com/97514461/201113136-900bc2f2-0564-475f-8ddc-b8a0e184ebae.png)
+![image](https://user-images.githubusercontent.com/97514461/201113136-900bc2f2-0564-475f-8ddc-b8a0e184ebae.png)<br>
 출처 : https://www.joongang.co.kr/article/25063387#home
 
 ---
