@@ -1,3 +1,6 @@
+# Data별 시각화 진행
+- 정리한 노션 : https://www.notion.so/11-12-Data-547037c7174344de917ec14669e9e828
+
 # Data별 column 설명
 
 1. customers 
