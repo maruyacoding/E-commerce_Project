@@ -30,6 +30,6 @@
 4. 장바구니 및 결제 시스템을 간소화시키기
     - 고객의 위시리스트 기능 추가, 보기 쉬운 '제품 삭제'버튼 추가 -> 원활한 결제 경험에 매우 중요!!
 
-출처 : https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs
-출처 : https://omnious.ai/ko-kr/resources/ikeomeoseu-maketing-jeonryag-cogaeinhwa-deuleobosyeossnayo/
+출처 : https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs<br>
+출처 : https://omnious.ai/ko-kr/resources/ikeomeoseu-maketing-jeonryag-cogaeinhwa-deuleobosyeossnayo/<br>
 출처 : http://groobee.net/2019/02/11/2019-ecommerce-marketing/
