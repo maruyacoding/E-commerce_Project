@@ -22,13 +22,13 @@
 ![image](https://user-images.githubusercontent.com/97514461/201672084-825258a3-0440-4c3a-86bb-51d2da72a56a.png)
 
 3. 이커머스 마케팅 전략
-		- 트래픽 파악, 구매 전환율 파악, 한 번 결제할 때 몇 개의 제품을 구매하는지, 총 주문 수 추적
-		- 모든 채널에서 검색 가능한 매력적인 콘텐츠 만들기
-		- 제품 검색을 단순화시키기 (평가 or 퀴즈를 통해 고객의 니즈를 파악 -> 원하는 제품을 빠르게 발견할 수 있게 도와주기)<br><br>
+    - 트래픽 파악, 구매 전환율 파악, 한 번 결제할 때 몇 개의 제품을 구매하는지, 총 주문 수 추적
+    - 모든 채널에서 검색 가능한 매력적인 콘텐츠 만들기
+    - 제품 검색을 단순화시키기 (평가 or 퀴즈를 통해 고객의 니즈를 파악 -> 원하는 제품을 빠르게 발견할 수 있게 도와주기)<br><br>
 ![image](https://user-images.githubusercontent.com/97514461/201672492-e7716074-b1fa-4edb-87e7-c418a3cd289b.png)
 
 4. 장바구니 및 결제 시스템을 간소화시키기
-		- 고객의 위시리스트 기능 추가, 보기 쉬운 '제품 삭제'버튼 추가 -> 원활한 결제 경험에 매우 중요!!
+    - 고객의 위시리스트 기능 추가, 보기 쉬운 '제품 삭제'버튼 추가 -> 원활한 결제 경험에 매우 중요!!
 
 출처 : https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs
 출처 : https://omnious.ai/ko-kr/resources/ikeomeoseu-maketing-jeonryag-cogaeinhwa-deuleobosyeossnayo/
